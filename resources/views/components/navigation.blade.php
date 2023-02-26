@@ -29,6 +29,9 @@
         <li>
           <a href="#" class="m-1 block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-violet-200 md:hover:bg-transparent md:hover:text-violet-700 md:p-0 md:dark:hover:text-violet-700 dark:text-gray-400 dark:hover:bg-violet-200 dark:hover:text-violet-700 md:dark:hover:bg-violet-200 dark:border-gray-700">Contacto</a>
         </li>
+        <li>
+          <a href="/karel.js" class="m-1 block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-violet-200 md:hover:bg-transparent md:hover:text-violet-700 md:p-0 md:dark:hover:text-violet-700 dark:text-gray-400 dark:hover:bg-violet-200 dark:hover:text-violet-700 md:dark:hover:bg-violet-200 dark:border-gray-700">IDE</a>
+        </li>
       </ul>
     </div>
     </div>

@@ -16,7 +16,7 @@
     <body class="font-sans text-gray-900 antialiased">
         <div class="login__body min-h-screen flex flex-col sm:justify-center items-center  sm:pt-0 justify-center">
             <div class="w-full sm:max-w-md px-6 py-4 bg-white shadow-md overflow-hidden sm:rounded-3xl">
-                <div class="py-5 px-5">
+                <div class="py-1 px-5">
                     <div class="flex flex-col items-center">
                         <div class="flex flex-col items-center">
                             <h2 class="text-xl pb-1">
